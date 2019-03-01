@@ -1,14 +1,14 @@
 {
   "main.css": "/bill-scanner/static/css/main.60403ca3.chunk.css",
-  "main.js": "/bill-scanner/static/js/main.cce39fd7.chunk.js",
-  "main.js.map": "/bill-scanner/static/js/main.cce39fd7.chunk.js.map",
+  "main.js": "/bill-scanner/static/js/main.f0195253.chunk.js",
+  "main.js.map": "/bill-scanner/static/js/main.f0195253.chunk.js.map",
   "runtime~main.js": "/bill-scanner/static/js/runtime~main.852eef8b.js",
   "runtime~main.js.map": "/bill-scanner/static/js/runtime~main.852eef8b.js.map",
-  "static/js/2.5bf9b2cd.chunk.js": "/bill-scanner/static/js/2.5bf9b2cd.chunk.js",
-  "static/js/2.5bf9b2cd.chunk.js.map": "/bill-scanner/static/js/2.5bf9b2cd.chunk.js.map",
+  "static/js/2.f74ed3d0.chunk.js": "/bill-scanner/static/js/2.f74ed3d0.chunk.js",
+  "static/js/2.f74ed3d0.chunk.js.map": "/bill-scanner/static/js/2.f74ed3d0.chunk.js.map",
   "index.html": "/bill-scanner/index.html",
-  "precache-manifest.100e66f308aa257b4b1b5450a2674819.js": "/bill-scanner/precache-manifest.100e66f308aa257b4b1b5450a2674819.js",
+  "precache-manifest.ccb2d68be2347bfc707c89670a81f308.js": "/bill-scanner/precache-manifest.ccb2d68be2347bfc707c89670a81f308.js",
   "service-worker.js": "/bill-scanner/service-worker.js",
   "static/css/main.60403ca3.chunk.css.map": "/bill-scanner/static/css/main.60403ca3.chunk.css.map",
-  "static/media/logo.svg": "/bill-scanner/static/media/logo.5d5d9eef.svg"
+  "static/media/download.jpeg": "/bill-scanner/static/media/download.94f2c70e.jpeg"
 }
